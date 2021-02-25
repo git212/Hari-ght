@@ -1,4 +1,6 @@
 This is one.txt
 git is nice tool
 git is comprensive
+git is distributed
 git is good
+
